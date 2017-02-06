@@ -1,0 +1,15 @@
+*.svn
+figures/*
+audio/*
+config.xsl
+post.py
+data_treatiesportal/*
+search/*
+images/figures/*
+earlytreaties/figures/*
+indianaffairsvetoes/pdf/*
+treatyoffortlaramie1851/pdf/*
+
+
+
+.DS_Store

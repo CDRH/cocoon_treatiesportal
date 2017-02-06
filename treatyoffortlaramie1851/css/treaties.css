@@ -1,0 +1,60 @@
+* {font-family: verdana;}
+div {margin: 0px; padding: 0px; }
+body {background: url('../images/bgsmall.jpg') top right repeat-y #FAEED5; margin: 0px; padding: 0px; text-align: left;  text-align: center;}
+div#mainwrapper {background: url('../images/bgsmall2.jpg') top left repeat-y; margin: 0px; padding: 0px;  font-size: .8em; height: 100%;  text-align: center; margin-left: auto; margin-right: auto;}
+div#secondwrapper {background: url('../images/bottom2.gif') top left repeat-y; width: 700px; border-right: double 3px #672E00; height: 100%; text-align: center; margin-left: auto; margin-right: auto;}
+div#projecthead {background: url('../images/top.gif') top left repeat-x; padding: 15px 20px 10px 45px; text-align: left;  background: url("d"); border-top: double 3px;}
+div#content {border: solid 1px #E9D6B8; margin: 10px 15px 20px 45px; text-align: left; padding: 5px 20px 20px 20px;  text-align: left;background: url('../images/pattern1.gif') #FAEED5; }
+div#metadata { margin: 0px 15px 20px 45px; padding: 0px 15px 15px 15px; text-align: left;}
+div#metadata h2 {font-size: 1.1em; font-weight: bold; color: #191919; margin-bottom: 5px; text-align: left;}
+a:link {text-decoration: underline; color: #6F3B22;}
+a:visited {color: black;}
+a:hover {color: #9C946C;}
+img {border: 0px;}
+span.page {font-size: .8em;}
+span.roman {font-family: times, serif}
+span.smallcaps {font-variant: small-caps; font-size: .7em;}
+div#metadata table {border-collapse: collapse; text-align: left;}
+div#metadata h2 {text-align: left;}
+th {font-size: .9em; color: white; background-color: #9C936C; vertical-align: top; text-align: left; padding: 5px; border-bottom: solid 1px #D4CAA1; }
+th a:link {color: white;}
+th a:visited {color: white;}
+th a:hover {color: #6F3B22;}
+div#metadata td {padding: 5px 5px 5px 10px; font-size: .8em; vertical-align: top; background-color: #D4CAA1; border-bottom: solid 1px #E9D2B3; }
+div#footer {padding: 4px 5px 20px 4px; font-size: .8em; border-top: double 3px #672E00; border-left: solid 1px #672E00; border-bottom: solid 1px #672E00; text-align: right; background: url('../images/pattern2.gif'); margin-left: 30px;}
+.mainmenu {width: 200px; float: right; text-alignt: right;}
+.mainmenu form {padding-top: 5px; }
+.mainmenu a {display: block; background-color: #7E7756; color: white; padding: 2px 5px 2px 5px; text-align: left; margin-top: 2px; margin-right: 20px; }
+.mainmenu a:link, .mainmenu a:visited {color: white; font-weight: bold; text-decoration: none; }
+a:link.help, a:visited.help {display: in-line; background: none; color: black; font-wight: normal; font-size: .7em; text-decoration: underline;}
+h2 {font-size: 1.2em;}
+ul {}
+li {margin-bottom: 15px; padding-left: 10px;}
+strong.highlighted {color: white; background-color: black;}
+.top {padding-top: 20px; margin-top: 40px; border-top: solid 1px;}
+small {font-size: 1em;}
+div.notes p {margin: 0px; padding: 0px; color: white;}
+div#content table {}
+div#content td {padding:0px 30px 0px 0px;}
+div.right {text-align: right;}
+
+
+
+/* New for laramie*/
+
+div.separator {padding-bottom: 15px; margin-bottom: 15px; border-bottom: solid 1px #CCB19F }
+
+
+.backto {
+	text-align: right;
+	margin: -10px -20px 10px 0;
+	padding: 0;
+}
+.backto a, .backto a:hover, .backto a:visited {
+	display: inline;
+	background-color: #844c4a;
+	color:  #fff;
+	padding: 5px;
+	text-decoration: none;
+	font-weight: bold;
+}
