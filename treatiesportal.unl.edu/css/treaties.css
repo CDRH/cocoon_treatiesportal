@@ -94,6 +94,8 @@ img.imgright {
   margin-left: 10px;
   float: right;
   padding: 2px;
+  width: 60px;
+  height: 70px;
 }
 
 img {
@@ -478,4 +480,8 @@ Accessibility Fixes
 a.sr-only-focusable:hover, a.sr-only-focusable:focus {
   color: #345c87;
   text-decoration: underline;
+}
+
+.align-left {
+  text-align: left;
 }
