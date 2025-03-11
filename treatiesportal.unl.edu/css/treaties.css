@@ -284,9 +284,12 @@ p.figDesc {
 	background-repeat: no-repeat;
 	background-position: center top;
 }  */
+
+
+/* Changed to sr-only
 #projecthead h1 span {
   display: none;
-}
+} */
 
 /* INDEX Page 
 
