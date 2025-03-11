@@ -24,22 +24,6 @@
         <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
         <title>Kappler's map: The Platte River image from the Treaty with the Pawnee &#8212; Grand, Loups, Republicans, etc., 1848</title>
         <link rel="stylesheet" type="text/css" href="css/treaties.css"/>
-        <script type="text/javascript">
-          <![CDATA[
- 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-43319211-1']);
-  _gaq.push(['_trackPageview']);
- 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-
-          ]]>
-        </script>
         <!--<base href="http://treatiesportal.unl.edu/kapplermap/" />-->
       </head>
 
