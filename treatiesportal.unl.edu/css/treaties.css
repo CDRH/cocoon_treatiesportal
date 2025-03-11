@@ -215,6 +215,11 @@ li {
   padding-left: 10px;
 }
 
+/* Nested list */
+li ul {
+  margin-top: 15px;
+}
+
 strong.highlighted {
   color: white;
   background-color: black;
@@ -431,6 +436,10 @@ h2.index a {
   border-left: 2px solid #672E00;
   border-right: 2px solid #672E00;
   }
+
+main .section-wrapper {
+  padding-bottom: 20px;
+}
 
 footer .section-wrapper {
   border-bottom: 2px solid #672E00;
