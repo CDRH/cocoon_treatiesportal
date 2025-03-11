@@ -8,8 +8,8 @@ body {
 	background-image: url(../images/bgsmall4.jpg);
 	background-repeat: repeat;
 }
-div#mainwrapper {margin: 0px; padding: 0px;  font-size: 0.8em; height: 100%;  text-align: center; margin-left: auto; margin-right: auto;}
-div#secondwrapper {
+#mainwrapper {margin: 0px; padding: 0px;  font-size: 0.8em; height: 100%;  text-align: center; margin-left: auto; margin-right: auto;}
+#secondwrapper {
 	width: 700px;
 	height: auto;
 	text-align: center;
@@ -21,7 +21,7 @@ div#secondwrapper {
 	background-position: left top;
 	border: 2px solid #672e00;
 }
-div#projecthead {
+#projecthead {
 /*	background: url(../images/top.gif) top left repeat-x;  */
 	text-align: left;
 	padding-top: 15px;
@@ -29,7 +29,7 @@ div#projecthead {
 	padding-bottom: 0px;
 	padding-left: 45px;
 }
-div#content {
+#content {
 	text-align: left;
 	margin-top: 0px;
 	margin-right: 15px;
@@ -42,8 +42,8 @@ div#content {
 	background: url('../images/pattern1.gif');
 	border: solid 1px #E9D6B8;
 }
-div#metadata { margin: 0px 15px 20px 45px; padding: 0px 15px 15px 15px; text-align: left;}
-div#metadata h2 {font-size: 1.1em; font-weight: bold; color: #191919; margin-bottom: 5px; text-align: left;}
+#metadata { margin: 0px 15px 20px 45px; padding: 0px 15px 15px 15px; text-align: left;}
+#metadata h2 {font-size: 1.1em; font-weight: bold; color: #191919; margin-bottom: 5px; text-align: left;}
 a:link {text-decoration: underline; color: #6F3B22;}
 a:visited {color: black;}
 a:hover {color: #9C946C;}
@@ -63,14 +63,14 @@ td {
 	text-align: left;
 	vertical-align: top;
 }
-div#metadata table {border-collapse: collapse; text-align: left;}
-div#metadata h2 {text-align: left;}
+#metadata table {border-collapse: collapse; text-align: left;}
+#metadata h2 {text-align: left;}
 th {font-size: .9em; color: white; background-color: #9C936C; vertical-align: top; text-align: left; padding: 5px; border-bottom: solid 1px #D4CAA1; }
 th a:link {color: white;}
 th a:visited {color: white;}
 th a:hover {color: #6F3B22;}
-div#metadata td {padding: 5px 5px 5px 10px; font-size: .8em; vertical-align: top; background-color: #D4CAA1; border-bottom: solid 1px #E9D2B3; }
-div#footer {padding: 4px 5px 20px 4px; font-size: .8em; border-top: double 3px #672E00; border-left: solid 1px #672E00; text-align: right; background: url('../images/pattern2.gif'); margin-left: 30px;}
+#metadata td {padding: 5px 5px 5px 10px; font-size: .8em; vertical-align: top; background-color: #D4CAA1; border-bottom: solid 1px #E9D2B3; }
+#footer {padding: 4px 5px 20px 4px; font-size: .8em; border-top: double 3px #672E00; border-left: solid 1px #672E00; text-align: right; background: url('../images/pattern2.gif'); margin-left: 30px;}
 .mainmenu {width: 200px; float: right; text-align: right;}
 .mainmenu form {padding-top: 5px; }
 .mainmenu a {display: block; background-color: #7E7756; color: white; padding: 2px 5px 2px 5px; text-align: left; margin-top: 2px; margin-right: 20px; }
@@ -82,18 +82,18 @@ li {margin-bottom: 15px; padding-left: 10px;}
 strong.highlighted {color: white; background-color: black;}
 .top {padding-top: 20px; margin-top: 40px; border-top: solid 1px;}
 small {font-size: 1em;}
-div.notes p {margin: 0px; padding: 0px; color: white;}
-div#content table {font-size: .8em;}
-div.right {text-align: right;}
+.notes p {margin: 0px; padding: 0px; color: white;}
+#content table {font-size: .8em;}
+.right {text-align: right;}
 
 /* NEW for CRAMBERRY */
 
 h1, h2, h3, h4 {font-size: 1.2em;}
-div.separator {padding-bottom: 15px; margin-bottom: 15px; border-bottom: solid 1px #CCB19F }
+.separator {padding-bottom: 15px; margin-bottom: 15px; border-bottom: solid 1px #CCB19F }
 #projecthead p {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: .9em; padding-bottom: 10px; }
 p.figDesc {font-size: .85em; padding: 0px 30px 20px 30px; }
-div.image_large_16x9 {padding-top: 20px; text-align: center;}
-/*div#projecthead h1 {
+.image_large_16x9 {padding-top: 20px; text-align: center;}
+/*#projecthead h1 {
 	width: 573px;
 	height: 116px;
 	overflow: hidden;
@@ -102,7 +102,7 @@ div.image_large_16x9 {padding-top: 20px; text-align: center;}
 	background-repeat: no-repeat;
 	background-position: center top;
 }  */
-div#projecthead h1 span {display: none;}
+#projecthead h1 span {display: none;}
 
 /* INDEX Page 
 
